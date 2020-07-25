@@ -22,7 +22,7 @@
 ## 💻 That I know and use
 - JavaScript
 - TypeScript
-- Vue(Vue2.0、Vue3.0、Vuex、Nuxt)
+- Vue(Vue2、Vue3、Vuex、Nuxt)
 - React (Redux、Redux-saga、Redux-thunk、Next、Styled-components)
 - CSS(CSS3、SCSS、SASS)
 - Electron
