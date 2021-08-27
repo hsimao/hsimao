@@ -45,6 +45,7 @@
 
 
 ## 💡 Projects
+- [2030 智慧國家 - 太空科技專題 Space Tech](https://2030.tw/space-tech)
 - [科技平台 - 臺灣普拉思 Taiwan Plus](https://taiwanplus.tw/)
 - [MOPCON 2019](https://mopcon.org/2019/)
 - [Calyx](https://calyxtechs.com/)
