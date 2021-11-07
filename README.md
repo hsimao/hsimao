@@ -16,14 +16,16 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Mars CHEN
+
 - Hi, I'm Mars! I am a Front-End Developer. I live learing new techonlogy and skills of web.
 
-
 ## 💻 That I know and use
+
 - JavaScript
 - TypeScript
 - Vue(Vue2、Vue3、Vuex、Nuxt)
 - React (Redux、Redux-saga、Redux-thunk、Next、Styled-components)
+- React Native
 - CSS(CSS3、SCSS、SASS)
 - Electron
 - GSAP(TweenMax、TimelineMax、ScrollTrigger)
@@ -31,6 +33,7 @@
 - P5js
 - SVG
 - D3
+- Echart
 - Storybook
 - GraphQL
 - Gulp、Webpack
@@ -39,12 +42,13 @@
 - Jest
 - Node(Express)
 - MongoDB
+- MySql
 - Firebase
 - Docker
 - Linode (VPS、SSL、Nginx)
 
-
 ## 💡 Projects
+
 - [2030 智慧國家 - 太空科技專題 Space Tech](https://2030.tw/space-tech)
 - [科技平台 - 臺灣普拉思 Taiwan Plus](https://taiwanplus.tw/)
 - [MOPCON 2019](https://mopcon.org/2019/)
@@ -59,5 +63,5 @@
 - [UA 服飾電商網站](https://nuxt-shop.hsimao.org/)
 - [地圖標籤](https://nuxt-shop.hsimao.org/)
 - [News 新聞網站](https://your-news.now.sh/)
-- [線上聊天室 仿Slack](https://react-slack-21746.firebaseapp.com/)
+- [線上聊天室 仿 Slack](https://react-slack-21746.firebaseapp.com/)
 - [See more](https://codepen.io/hsimao/full/WZELvE)
