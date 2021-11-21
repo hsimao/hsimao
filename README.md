@@ -17,14 +17,14 @@
 
 ### I am Mars CHEN
 
-- Hi, I'm Mars! I am a Front-End Developer. I live learing new techonlogy and skills of web.
+- Hi, I'm Mars! I am a Front-End Developer. I like learing new techonlogy and skills of web.
 
 ## 💻 That I know and use
 
 - JavaScript
 - TypeScript
 - Vue(Vue2、Vue3、Vuex、Nuxt)
-- React (Redux、Redux-saga、Redux-thunk、Next、Styled-components)
+- React (Redux、Redux-toolkit、Redux-saga、Redux-thunk、Next、Styled-components)
 - React Native
 - CSS(CSS3、SCSS、SASS)
 - Electron
