@@ -11,7 +11,10 @@
   <img align="left" alt="Mars openprocessing" width="22px" src="https://tetunori.github.io/GenerativeArtWithMath-p5.js/pages/images/openProcessingIcon.png" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsimao&theme=gruvbox&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+
+<img align="right" style="margin-top: 16px;" src="https://github-readme-stats.vercel.app/api?username=hsimao&theme=gruvbox" />
 
 ### I am Mars CHEN
 
