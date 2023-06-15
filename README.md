@@ -12,9 +12,7 @@
 </a>
 <br />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsimao&theme=gruvbox&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-
-<img align="right" style="margin-top: 16px;" src="https://github-readme-stats.vercel.app/api?username=hsimao&theme=gruvbox" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Mars CHEN
 
