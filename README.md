@@ -12,20 +12,19 @@
 </a>
 <br />
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
 ### I am Mars CHEN
 
-- Hi, I'm Mars! I am a Front-End Developer. I like learing new techonlogy and skills of web.
+- Hello! I'm Mars, a passionate Front-End Developer dedicated to learning and implementing cutting-edge web technologies and skills. Let's connect and create dynamic experiences on the web!
 
 ## 💻 That I know and use
 
 - JavaScript
 - TypeScript
-- Vue(Vue2、Vue3、Vuex、Nuxt)
-- React (Redux、Redux-toolkit、Redux-saga、Redux-thunk、Next、Styled-components)
+- Vue (Vue2、Vue3、Nuxt2、Nuxt3、Vuex、Pinia)
+- React (Next、Redux、Redux toolk、React Query、Redux-saga、Redux-thunk、Styled-components)
 - React Native
-- CSS(CSS3、SCSS、SASS)
+- Micro-front (Qiankun、Webpack ModuleFederationPlugin)
+- CSS(Tailwindcss、CSS3、SCSS、SASS)
 - Electron
 - GSAP(TweenMax、TimelineMax、ScrollTrigger)
 - Canvas
